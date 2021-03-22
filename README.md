@@ -13,7 +13,7 @@ Good luck, and happy coding!
 That's okay! Most of these puzzles are designed to be _hard_ for those of us who are new to programming. If you can solve it in five minutes, great! But a real puzzle should be a challenge.
 
 I'd suggest a few resources:
-- Google your problem.
+- Google your problem. This should always be the first thing to do when you've exhausted your knowledge.
 - Reach out on Discord! Everyone gets stuck somewhere. Asking for help is a sign that you're trying to learn. 
 
 ## I solved it, but I don't think it's good code.
