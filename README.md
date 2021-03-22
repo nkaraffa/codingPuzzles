@@ -10,7 +10,7 @@ Good luck, and happy coding!
 3. At the bottom, click "Propose changes". This will create a pull request, which can be reviewed by the owner of the repository.
 
 ## I can't figure it out. Where can I turn?
-That's okay! Most of these puzzles are designed to be _hard_ for those of us who new to programming. If you can solve it in five minutes, great! But a real puzzle should be a challenge.
+That's okay! Most of these puzzles are designed to be _hard_ for those of us who are new to programming. If you can solve it in five minutes, great! But a real puzzle should be a challenge.
 
 I'd suggest a few resources:
 - Google your problem.
