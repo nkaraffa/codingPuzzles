@@ -21,3 +21,5 @@ That's great! Solving the problem is the first and most important step. But to d
 - Is there a quicker, simpler way to solve this problem?
 - Is my code readable?
 - Do I have a lot of redundant work?
+
+At the point we are in the course, being able to solve problems is our priority. Being able to solve them efficiently is really just a bonus.
