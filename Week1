@@ -1,0 +1,19 @@
+/*  Challenge: Given two strings, write a code that determines if one is a permutation of another. A permutation is a variation of the same character set. 
+    For example, the string "yvan eht niaj" is a permutation of the string "join the navy".
+    
+    In order to participate, just initiate a pull request with your solution. 
+    To do so, click the pencil icon on the top right of this text box. 
+    Input your solution, and then submit the pull request.
+    
+    Good luck!!!
+*/
+
+using System;
+
+public static class Program
+{
+  public static void Main(string[] args)
+  {
+   // your code ...
+  }
+}
